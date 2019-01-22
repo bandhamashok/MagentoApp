@@ -36,5 +36,6 @@
 	</classpathentry>
 	<classpathentry kind="var" path="M2_REPO"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/DELL/Downloads/selenium-server-standalone-3.141.59.jar"/>
 	<classpathentry kind="output" path="target/classes"/>
 </classpath>
